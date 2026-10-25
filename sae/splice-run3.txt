@@ -1,0 +1,8 @@
+clean        loss 3.1183
+sae          loss 3.5864
+pca22        loss 5.5872
+randTopK_LS  loss 4.7893
+mean_ablate  loss 8.1710
+sae: loss recovered 0.907  (Δ vs clean +0.4681)
+pca22: loss recovered 0.511  (Δ vs clean +2.4689)
+randTopK_LS: loss recovered 0.669  (Δ vs clean +1.6710)

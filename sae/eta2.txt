@@ -1,0 +1,17 @@
+[trained-lam0.05] alive 3068
+  CV η² token      : median 0.40, share<0.5 0.57
+  CV η² prev+token : median 0.22, share<0.5 0.81   (latents with token<0.5 AND pair<0.5: 0.50)
+  CV η² position   : median -0.004, share>0.2 0.001
+  density [0,0.002): n 26, CV η² token median 0.58, share<0.5 0.46
+  density [0.002,0.01): n 1204, CV η² token median 0.79, share<0.5 0.22
+  density [0.01,0.05): n 1487, CV η² token median 0.27, share<0.5 0.75
+  density [0.05,1): n 351, CV η² token median -0.06, share<0.5 1.00
+  residual-level CV R² from token id (variance-weighted): 0.397
+[random-s0-lam0.03] alive 3072
+  CV η² token      : median 0.84, share<0.5 0.03
+  CV η² prev+token : median 0.32, share<0.5 0.83   (latents with token<0.5 AND pair<0.5: 0.03)
+  CV η² position   : median -0.004, share>0.2 0.000
+  density [0.002,0.01): n 238, CV η² token median 0.98, share<0.5 0.00
+  density [0.01,0.05): n 2728, CV η² token median 0.84, share<0.5 0.00
+  density [0.05,1): n 106, CV η² token median 0.01, share<0.5 0.95
+  residual-level CV R² from token id (variance-weighted): 0.874

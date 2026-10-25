@@ -1,0 +1,6 @@
+== RANDOM-INIT transformer, width 3072 lambda 0.1
+step 2000: FVU 0.1446 L0 27.6 dead 0.000 dense>10% 0.001
+step 4000: FVU 0.1314 L0 16.5 dead 0.000 dense>10% 0.001
+step 6000: FVU 0.1300 L0 12.2 dead 0.000 dense>10% 0.001
+step 8000: FVU 0.1292 L0 10.2 dead 0.000 dense>10% 0.001
+step 10000: FVU 0.1269 L0 9.7 dead 0.000 dense>10% 0.001

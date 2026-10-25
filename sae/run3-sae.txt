@@ -1,0 +1,6 @@
+== width 3072 lambda 0.1 batch 512 acts 576k (cache)
+step 2000: FVU 0.2472 L0 36.0 dead 0.000 dense>10% 0.005
+step 4000: FVU 0.2297 L0 29.1 dead 0.000 dense>10% 0.002
+step 6000: FVU 0.2218 L0 25.0 dead 0.001 dense>10% 0.003
+step 8000: FVU 0.2143 L0 23.6 dead 0.002 dense>10% 0.003
+step 10000: FVU 0.2126 L0 22.1 dead 0.008 dense>10% 0.002

@@ -1,0 +1,11 @@
+== width 3072 lambda 0.05 batch 512
+step 2000: FVU 0.1893 L0 123.3 dead 0.000 dense>10% 0.035
+step 4000: FVU 0.1771 L0 93.8 dead 0.000 dense>10% 0.024
+step 6000: FVU 0.1771 L0 78.1 dead 0.000 dense>10% 0.021
+step 8000: FVU 0.1763 L0 66.6 dead 0.000 dense>10% 0.016
+step 10000: FVU 0.1744 L0 63.1 dead 0.000 dense>10% 0.017
+== width 3072 lambda 0.1 batch 512
+step 2000: FVU 0.2639 L0 35.7 dead 0.000 dense>10% 0.004
+step 4000: FVU 0.2441 L0 28.7 dead 0.000 dense>10% 0.003
+step 6000: FVU 0.2374 L0 24.7 dead 0.000 dense>10% 0.001
+step 8000: FVU 0.2341 L0 22.1 dead 0.002 dense>10% 0.001

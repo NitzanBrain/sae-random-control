@@ -1,0 +1,10 @@
+trained: FVU 0.2126  L0 22.1  shrinkage γ 0.919
+random-init SAE, TopK k=22: FVU 0.8236 (own decoder), 0.2647 (least-squares decoder)
+PCA rank 22: FVU 0.5703
+census on held-out: alive 0.992  dense>10% 0.0016  antipodal pairs 0  near-duplicate pairs 0
+top-token mass share, median [IQR]: trained 0.39 [0.17, 0.68], share of latents >0.9: 0.08
+                                  random-init 0.13 [0.08, 0.21], share >0.9: 0.00
+trained SAE: FVU 0.2126 L0 22.1
+random-init TopK k=22 seed 0: LS decoder fit on 60k train -> held-out FVU 0.4630
+random-init TopK k=22 seed 1: LS decoder fit on 60k train -> held-out FVU 0.4646
+random-init TopK k=22 seed 2: LS decoder fit on 60k train -> held-out FVU 0.4566

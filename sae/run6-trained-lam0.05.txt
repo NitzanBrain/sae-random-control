@@ -1,0 +1,7 @@
+== TRAINED Pythia, lambda 0.05
+step 2000: FVU 0.1956 L0 126.9 dead 0.000 dense>10% 0.041
+step 4000: FVU 0.1769 L0 97.0 dead 0.000 dense>10% 0.032
+step 6000: FVU 0.1624 L0 81.0 dead 0.000 dense>10% 0.031
+step 8000: FVU 0.1607 L0 72.9 dead 0.000 dense>10% 0.032
+step 10000: FVU 0.1589 L0 67.2 dead 0.000 dense>10% 0.027
+trained-Pythia-lam0.05 alive 3068  η² median 0.75 [IQR 0.27-0.93]  share η²<0.5: 0.37  share η²>0.9: 0.32  | shuffled-null median 0.13

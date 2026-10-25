@@ -1,0 +1,98 @@
+
+### latent 106  density 0.2979%  top-token share 1.00
+  0.73  ' Epsom.\nAll [[ that]]  is known after'
+  0.71  ' astonishing to me.\nAll [[ that]]  he said threw'
+  0.70  '. Darcy, and all [[ that]]  he had suffered'
+  0.70  ' long before they are. All [[ that]]  is\n required'
+  0.69  ' not willingly have dared. All [[ that]]  is made such'
+  0.69  ' splice a rope, and all [[ that]] , I made'
+
+### latent 1567  density 2.0198%  top-token share 0.20
+  0.38  '. So he inquired who she [[ was]] , and got'
+  0.37  'The question is, what and [[ where]]  is the skin'
+  0.34  ' walked on without knowing in what [[ direction]] . There was'
+  0.33  '. She knew not the exact [[ degree]]  of his affection'
+  0.33  ' possible, to find out the [[ extent]]  of his assistance'
+  0.33  ' the exact [[ purpose]]  was for which'
+
+### latent 2668  density 0.2148%  top-token share 0.60
+  0.71  'ion.\n\nHis daughter [[ attended]]  him with the'
+  0.71  'ing\nwith her himself, [[ attended]]  to her conversation'
+  0.71  'lemn, apologizing instead of [[ attending]] , and often'
+  0.71  ' the\nhousekeeper, who [[ attended]]  in the absence'
+  0.70  ' her well guarded from cold, [[ attended]]  her into the'
+  0.70  'back, and her\nmother [[ attended]]  her to the'
+
+### latent 2523  density 0.1106%  top-token share 1.00
+  0.82  ' since then he must have bitterly [[ regret]] ted the\n'
+  0.81  ' concluded with her brother’s [[ regret]]  at not having'
+  0.80  ' some pleasure, though mixed with [[ regret]] , on finding'
+  0.80  ' one ceaseless source of [[ regret]]  in my\n'
+  0.79  'it saved her from something like [[ regret]] .\n\n'
+  0.79  ' that I uttered the words I [[ regret]] ted the rash'
+
+### latent 2910  density 2.6651%  top-token share 0.55
+  0.30  ' there was a gentleman in the [[ pe]] w. Some'
+  0.28  ' the view I had of the [[ d]] æmon;'
+  0.28  ' the\ndestruction of the [[ d]] æmon more'
+  0.27  ' constant repinings at the [[ d]] ulness of'
+  0.27  'leaped from\nout the [[ d]] aintiest Holland'
+  0.27  ', in conducting me to the [[ d]] æmon,'
+
+### latent 1448  density 0.4132%  top-token share 0.95
+  0.56  ' youth, I at once gave [[ up]]  my former\n'
+  0.56  ' youth, I at once gave [[ up]]  my former\n'
+  0.55  '\nMrs. Bennet give [[ up]]  the'
+  0.53  ' last,\nhaving apparently given [[ up]]  his search,'
+  0.53  ' his Yojo, and gave [[ up]]  his life into'
+  0.52  ' credit to; but he gave [[ up]]  everything to be'
+
+### latent 764  density 0.1127%  top-token share 1.00
+  1.04  ' he rewarded them by his ben [[evol]] ent smiles.'
+  1.04  ' he rewarded them by his ben [[evol]] ent smiles.'
+  1.03  ' he instantly resumed his former ben [[evol]] ence. He'
+  1.03  ' as a distant evil, ben [[evol]] ence and\n'
+  1.02  ' interferes with his ben [[evol]] ence.\n'
+  1.02  ' admire the activity of your ben [[evol]] ence,” observed'
+
+### latent 441  density 0.3965%  top-token share 0.70
+  0.75  ' rushed across the bedroom, flung [[ open]]  the\nwindow'
+  0.75  ', in his bare feet, [[ opened]]  the window,'
+  0.75  ' one\nendeavoured to [[ open]]  it softly.'
+  0.75  ' of drawers, you can [[ open]]  and shut him'
+  0.74  'stealthily [[ open]]  the window,'
+  0.74  ' cried the landlord, flinging [[ open]]  a door,'
+
+### latent 1300  density 0.5082%  top-token share 0.45
+  0.56  ' us try our strength in a [[ fight]] ,\nin'
+  0.56  ' in the\nfinal ladies’ [[ battle]]  with Lady Catherine'
+  0.56  'y not to flee from the [[ battle]]  if\nof'
+  0.56  ' us try our strength in a [[ fight]] ,\nin'
+  0.55  '\n in chace, in [[ battle]] , Fishes'
+  0.55  ' used as a mace in [[ battle]] ; Third,'
+
+### latent 2313  density 0.2012%  top-token share 1.00
+  0.75  'from knowing him better, his [[ disposition]]  was better understood'
+  0.74  ' her other sister, from whose [[ disposition]] \ngreater evil'
+  0.73  ' the alteration perceptible in my [[ disposition]] \nand habits'
+  0.73  ' protectress.\nAlthough her [[ disposition]]  was gay and'
+  0.73  ' the alteration perceptible in my [[ disposition]] \nand habits'
+  0.72  ' is a person of an excellent [[ disposition]]  and is remarkable'
+
+### latent 957  density 0.0550%  top-token share 1.00
+  0.46  ' at the university of Ingol [[stadt]] . I had'
+  0.46  ' of the professors at Ingol [[stadt]] , my\n'
+  0.45  '\nresidence at Ingol [[stadt]] , which were'
+  0.45  'after your departure for Ingol [[stadt]] , Justine'
+  0.45  ' of the professors at Ingol [[stadt]] , my\n'
+  0.45  '\nMy departure for Ingol [[stadt]] , which had'
+
+### latent 2912  density 0.2253%  top-token share 1.00
+  0.76  ' the night on\nwhich the [[ murder]]  had been committed'
+  0.74  ' fingers was mentioned I remembered the [[ murder]]  of\nmy'
+  0.73  ' of the night on which the [[ murder]]  had been committed'
+  0.73  '.\nThe [[ murder]] ous mark of'
+  0.73  ', the morning on which the [[ murder]]  of poor William'
+  0.72  ' of the night on which the [[ murder]]  had been committed'
+
+mean top-token share over 12 latents: 0.79; latents with share ≥0.9: 0.58
